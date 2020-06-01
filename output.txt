@@ -1,0 +1,172 @@
+PROJECT MADE BY sanaf momin
+
+ENTER USER NAME: sanaf
+PLEASE ENTER PIN: 
+LOGIN SUCCESFUL, CONTINUE
+
+
+						$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+						______________________________________________________________________
+
+								WELCOME TO THE HOSPITAL MANAGEMENT SYSTEM USING PYTHON
+ 
+						______________________________________________________________________
+
+						$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+==>>>PRESS ENTER TO CONTINUE
+1.WRITE RECORD
+2.SHOW ALL RECORDS
+3.SEARCH BY SERIAL NUMBER
+4.SEARCH BY CONTACT NUMBER
+5.SEARCH BY BLOOD GROUP
+6.SEARCH BY AGE
+7.SEARCH BY SEX
+8.SEARCH BY DISEASE NAME
+9.SEARCH BY DOCTORS NAME
+10.SEARCH BY PAYMENT METHOD
+11.SEARCH BY E-MAIL
+12.MODIFY RECORD
+13.DELETE RECORD
+14.EXIT
+
+
+Mon Jun  1 08:22:54 2019
+
+
+
+PLEASE ENTER YOUR CHOICE:--1
+Enter Details::
+Enter Serial number:1
+Enter Patinet's Name:Abc
+Enter Patinet's Age:16
+Enter Patinet's Sex (Male/Female):Female
+Enter Patinet's Height:150cm
+Enter Patinet's Weight(In Kgs):40
+Enter Patient's Blood Group:o+
+Enter Fathers Name:Xyz
+Enter Address:Mumbai
+Enter City:Bandra
+Enter State:Maharashtra
+Enter Phone number:9898989898
+Enter E-Mail:abc@gmail.com
+Enter Doctor's Name:Gupta
+Enter Disease Name:BP
+Enter Prescribed Medicine:Glucose
+Enter Bill Amount: Rs.500
+Enter Payment Method(Cash/Cheque/Card):Cash
+Record Saved
+
+
+
+PLEASE ENTER YOUR CHOICE:--2
+Hospital Details are::
+
+
+SERIAL NUMBER:- 1
+PATIENT'S NAME:- Abc
+PATIENT'S AGE:- 16
+PATIENT'S SEX:- Female
+PATIENT'S HEIGHT:- 150cm
+PATIENT'S WEIGHT:- 40
+PATIENT'S BLOOD GROUP:- o+
+FATHERS NAME:- Xyz
+ADDRESS:- Mumbai
+CITY:- Bandra
+STATE:- Maharashtra
+CONTACT NUMBER:- 9898989898
+E-MAIL ADDRESS:- abc@gmail.com
+DISEASE NAME:- BP
+DOCTOR'S NAME:- Gupta
+PRESCRIBED MEDICINES:- Glucose
+BILL AMOUNT:- 500
+PAYMENT METHOD:- Cash
+
+
+PLEASE ENTER YOUR CHOICE:--3
+PLEASE ENTER SERIAL NUMBER TO SEARCH:--1
+
+Hospital Details Are:--
+
+
+SERIAL NUMBER:- 1
+PATIENT'S NAME:- abc
+PATIENT'S AGE:- 16
+PATIENT'S SEX:- Female
+PATIENT'S HEIGHT:- 150cm
+PATIENT'S WEIGHT:- 40
+PATIENT'S BLOOD GROUP:- o+
+FATHERS NAME:- Xyz
+ADDRESS:- Mumbai
+CITY:- Bandra
+STATE:- Maharashtra
+CONTACT NUMBER:- 9898989898
+E-MAIL ADDRESS:- abc@gmail.com
+DISEASE NAME:- BP
+DOCTOR'S NAME:- Gupta
+PRESCRIBED MEDICINES:- Glucose
+BILL AMOUNT:- 500
+PAYMENT METHOD:- Cash
+
+
+
+PLEASE ENTER YOUR CHOICE:--12
+ENTER SERIAL NUMBER TO MODIFY:--1
+
+
+____________________________________________ 
+|  ......... ENTER YOUR CHOICE ..........  | 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+
+WHAT DO YOU WANT TO MODIFY:
+1.PATIENT'S NAME
+2.PATIENT'S AGE
+3.PATIENT'S SEX
+4.PATIENT'S HEIGHT
+5.PATIENT'S WEIGHT
+6.PATIENT'S BLOOD GROUP:-
+7.FATHERS NAME:-
+8.ADDRESS:-
+9.CITY:-
+10.STATE:-
+11.CONTACT NUMBER:-
+12.E-MAIL ADDRESS:-
+13.DISEASE NAME:-
+14.DOCTOR'S NAME:-
+15.PRESCRIBED MEDICINES:-
+16.BILL AMOUNT:-
+17.PAYMENT METHOD:-
+18.ALL
+::--22
+
+Enter Valid Choice!
+
+
+               ____________________________________________ 
+               |  ... RECORD... DOES... NOT... EXIST ...  | 
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+
+
+
+PLEASE ENTER YOUR CHOICE:--13
+ENTER SERIAL NUMBER TO DELETE:-1
+Record Deleted
+
+
+
+PLEASE ENTER YOUR CHOICE:--14
+
+
+EXITING
+.
+.
+.
+.
+.
+PYTHON PROJECTS
+
+
